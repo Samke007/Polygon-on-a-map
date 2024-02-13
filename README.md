@@ -6,7 +6,7 @@ A web application that displays a specific polygon on a map.
 Create a web application that displays the polygon defined in the provided polygon.json file on a map. Use the OpenLayers library to accomplish this task.
 
 
-## Solution Approach:
+## Solution Approach
 
 Setup Environment:
 - Install the OpenLayers library using npm.
