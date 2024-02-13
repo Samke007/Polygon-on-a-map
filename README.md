@@ -28,3 +28,10 @@ Styling and UI/UX:
 Additional Files:
 - Create index.html to provide the root element for rendering React components.
 - Configure index.js to render the PolygonMap component within the root element.
+
+
+## Testing
+- Clone the repository or download the source code.
+- Navigate to skai-labs-task-1 directory and install dependencies using npm install.
+- Run the application using npm run dev and open the link in browser.
+- The polygon will be displayed on the map with the map centered and adjusted to fit the polygon.
